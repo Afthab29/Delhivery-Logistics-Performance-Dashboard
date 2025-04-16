@@ -1,4 +1,4 @@
-# 📦 Project_1 -  Delhivery Logistics Performance Dashboard
+# 📦 Project -  Delhivery Logistics Performance Dashboard
 
 This repository contains a Power BI report that presents a comprehensive analysis of delivery and logistics data. The goal is to provide actionable insights into key delivery metrics, identify operational bottlenecks, and support data-driven decision-making in logistics and supply chain management.
 
